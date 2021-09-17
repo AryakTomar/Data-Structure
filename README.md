@@ -4,4 +4,4 @@ HomeWork Questions (Practice question given in class)
 
 Q1) DS- Array Of Subjects
 
-Q2) DS2- Reverse Array
+Q2) DS1- Reverse Array
