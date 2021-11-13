@@ -1,11 +1,38 @@
 # Data-Structure
 BTCS403 -Data Structure and Algorithm
+
 HomeWork Questions (Practice question given in class)
 
-Q1) DS- Array Of Subjects
+The Current Work Includes Programs on:
 
-Q2) DS1- Reverse Array
+1) Add
 
-Q3) DS2- 2D Array
+2) Insertion
 
-Q4) Addition Of Matrix
+3) Linked List
+
+4) Multidimensional Array
+
+5) Reverse
+
+6) Struct
+
+7) Subject List Printing
+
+8) Display Linked List
+
+9) Double Linked List
+
+10) Deletion Linked List
+
+11) Insertion Linked List
+
+12) Circular Linked List
+
+13) Stack Implementation
+
+14) Stack Using Array
+
+15) Stack Using Linked List
+
+16) Deletion Linked List using First Node
